@@ -16,3 +16,5 @@ It uses:
 ✅ Validate certificate names using exact match from `data.json`  
 ✅ Calculate and return a **Total Credit Score**  
 ✅ Display detailed certification information  
+
+![Architecture Diagram](sample output.jpeg)
