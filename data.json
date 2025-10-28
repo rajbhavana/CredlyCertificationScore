@@ -1,0 +1,14 @@
+[
+  {
+    "certificate_name": "AWS Certified AI Practitioner",
+    "credit_points": 10
+  },
+  {
+    "certificate_name": "Microsoft Certified: Azure Fundamentals",
+    "credit_points": 5
+  },
+  {
+    "certificate_name": "AWS Certified AI Practitioner Early Adopter",
+    "credit_points": 2.5
+  }
+]

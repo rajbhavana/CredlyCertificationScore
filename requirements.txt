@@ -1,0 +1,6 @@
+langchain-core
+langchain
+langchain-groq
+langgraph
+python-dotenv
+beautifulsoup4
