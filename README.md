@@ -20,7 +20,8 @@ It uses:
 ![Architecture Diagram](https://github.com/rajbhavana/CredlyCertificationScore/blob/main/sample%20output.jpeg)
 
 ## sample Execution
-#user: Give me certification details of valid_credly user and also give credit score of valid certs
+#user: Give me certification details of valid_credly user and also give credit score of valid certs.
+
 #system: Certification Details for 'valid-credly-user':
 
 - AWS Certified Solutions Architect – Associate | Issued: 2023-01-01
