@@ -17,4 +17,5 @@ It uses:
 ✅ Calculate and return a **Total Credit Score**  
 ✅ Display detailed certification information  
 
-![Architecture Diagram](sample output.jpeg)
+![Architecture Diagram](https://github.com/rajbhavana/CredlyCertificationScore/blob/main/sample%20output.jpeg)
+
